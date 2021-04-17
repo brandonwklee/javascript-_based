@@ -3,12 +3,15 @@ body {
     padding-left: 20%;
     padding-right: 20%; 
     background-color: rgb(255, 0, 0);
+    transition: 0.5s;
 }
 
 h1 {
     font-family:'Trebuchet MS';
     letter-spacing: 3px;
     color: rgb(0, 255, 0); 
+    transition: 0.5s;
+    background: grey;
 }
 
 button { 
@@ -24,5 +27,4 @@ button {
 #text { 
     position: relative;
     text-align: center;
-    outline: white;
 }
