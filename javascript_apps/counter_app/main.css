@@ -1,0 +1,32 @@
+body { 
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10%;
+    background-color: lightgray;
+}
+
+h1 { 
+    font-size: 80px;
+    font-family: 'Lucida Sans';
+}
+
+button { 
+    font-family: 'Lucida Sans';
+    letter-spacing: 5px;
+    background-color: lightgray;
+    border-radius: 5px;
+    transition: 0.5s;
+    padding: 5px 8px 5px 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#main { 
+    position: relative;
+    text-align: center;
+}
+
+#counter { 
+    color: green;
+}
+
